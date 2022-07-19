@@ -2,6 +2,6 @@
 .classpath
 .settings/
 .gradle
-out
+out/
 build
 .idea
