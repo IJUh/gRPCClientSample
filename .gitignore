@@ -1,7 +1,15 @@
+# Compiled class file
+*.class
+
 .project
 .classpath
 .settings/
-.gradle
 out/
-build
 .idea
+
+# macOS template
+*.DS_Store
+
+# Gradle
+.gradle
+/build/
